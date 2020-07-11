@@ -1,0 +1,2 @@
+# KickstarterAnalysis
+Analyzing Kickstarter funding.
